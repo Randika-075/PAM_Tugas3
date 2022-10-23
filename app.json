@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "tugas3_120140075",
+    "slug": "tugas3_120140075",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.randika.tugas3_120140075"
+    }
+  },
+  "name": "tugas3_120140075"
+}
